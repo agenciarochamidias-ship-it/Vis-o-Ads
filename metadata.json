@@ -1,0 +1,7 @@
+{
+  "name": "TrafficManager Pro",
+  "description": "A premium SaaS platform for paid traffic managers to manage projects, clients, and campaigns with intelligent AI-powered dashboards and Kanban-style organization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
